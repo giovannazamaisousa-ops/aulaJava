@@ -59,13 +59,14 @@ Assuntos abordados durante as aulas de Java:
 
   Variáveis:
   Variáveis guardam informações na memória.
-  Exemplo: -String nome = "Giovanna";
-           -int idade = 16;
-           -double altura = 1.52;
-           -boolean alunos = true;
+  Exemplo:
+  - String nome = "Giovanna";
+  - int idade = 16;
+  - double altura = 1.52;
+  - boolean alunos = true;
 
-  -System.out.println (nome);
-  -System.out.println (idade);
-  -System.out.println (altura);
-  -System.out.println (aluno);
+  - System.out.println (nome);
+  - System.out.println (idade);
+  - System.out.println (altura);
+  -nSystem.out.println (aluno);
   
